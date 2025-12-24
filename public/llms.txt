@@ -1,0 +1,57 @@
+# אירוע בריבוע — Generative Engine Optimization Map
+
+> A אירועים והפקות business.
+
+---
+
+## Pages
+
+### Home
+https://-b9c389d9.zappy5.app
+הפקות אירועים מקצועיות לחברות ולקוחות פרטיים. תכנון, הפקה טכנית, ניהול וליווי מלא. אירוע בריבוע - הופכים חזון למציאות.
+
+### Services
+https://-b9c389d9.zappy5.app/services
+מגוון שירותי הפקת אירועים: תכנון ותיאום, הפקה טכנית, ניהול אירועים, עיצוב וקונספט. פתרונות מקיפים לכל סוגי האירועים.
+
+### About
+https://-b9c389d9.zappy5.app/about
+הכירו את אירוע בריבוע - 15 שנות ניסיון בהפקת אירועים. הסיפור שלנו, הערכים שלנו, והצוות המקצועי שעושה את הקסם.
+
+### Contact
+https://-b9c389d9.zappy5.app/contact
+צרו קשר עם אירוע בריבוע להפקת האירוע שלכם. מלאו טופס, התקשרו או שלחו הודעה. אנחנו כאן כדי לעזור לכם ליצור אירוע בלתי נשכח.
+
+## Legal & Policy
+
+### Privacy Policy
+https://-b9c389d9.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-b9c389d9.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-b9c389d9.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אירוע בריבוע
+אירוע בריבוע is a business in the אירועים והפקות industry.
+
+## Target Audience
+חברות ולקוחות פרטיים
+
+## Industry
+אירועים והפקות
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-b9c389d9.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-b9c389d9.zappy5.app/robots.txt
